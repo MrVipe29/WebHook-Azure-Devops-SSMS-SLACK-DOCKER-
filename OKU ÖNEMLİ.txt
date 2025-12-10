@@ -1,5 +1,0 @@
-BURADA BULUNAN DevOpsSyncClient:dotnet run ile çalıştırılır en başta veriyi senkron eder sonra canlı dinlemeye geçer.
-BURADA BULUNAN DevOpsWebhookAPI:değişiklik yapıldığı zaman sadece ama sadece public dosyası silinir tekrardan şu kod ile dotnet publish --configuration Release --output ./publish publish oluşturulur ve web app olarak webhook-mv adlı web app e deploy edilir site adresi ise
-https://webhook-mv-egcabdc9erc5h0bv.westeurope-01.azurewebsites.net/api/webhook/sync
-https://webhook-mv-egcabdc9erc5h0bv.westeurope-01.azurewebsites.net
-https://webhook-mv-egcabdc9erc5h0bv.westeurope-01.azurewebsites.net/api/webhook/notify
