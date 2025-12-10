@@ -1,0 +1,9 @@
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\DevOpsWebhookAPI.exe
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\appsettings.Development.json
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\appsettings.json
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\DevOpsWebhookAPI.dll
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\DevOpsWebhookAPI.deps.json
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\DevOpsWebhookAPI.runtimeconfig.json
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\DevOpsWebhookAPI.pdb
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Altuğ Efe SEVİNDİK\Desktop\DevOpsSyncProject\DevOpsWebhookAPI\publish\Microsoft.OpenApi.dll

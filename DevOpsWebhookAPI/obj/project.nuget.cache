@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "357wjTS7h4w=",
+  "success": true,
+  "projectFilePath": "C:\\YEDEK\\DevOpsSyncProject\\DevOpsWebhookAPI\\DevOpsWebhookAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altuğ Efe SEVİNDİK\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Altuğ Efe SEVİNDİK\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

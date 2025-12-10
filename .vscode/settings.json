@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dfd5a050-4dcc-4363-902e-9c4fe620da17/resourceGroups/webhook-mv_group/providers/Microsoft.Web/sites/webhook-mv",
+    "appService.deploySubpath": "DevOpsWebhookAPI\\publish"
+}
